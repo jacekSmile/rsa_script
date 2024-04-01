@@ -1,0 +1,50 @@
+03/31/24 20:30:42 v1.34.5 @ MACHINE, 
+03/31/24 20:30:42 v1.34.5 @ MACHINE, ****************************
+03/31/24 20:30:42 v1.34.5 @ MACHINE, Starting factorization of 145019079329431335397614962361328380657791588724922798973663969211116220115770245475920263239995612730754707053842643157419631306217775476295468921323722072358718740419891343
+03/31/24 20:30:42 v1.34.5 @ MACHINE, using pretesting plan: normal
+03/31/24 20:30:42 v1.34.5 @ MACHINE, no tune info: using qs/gnfs crossover of 95 digits
+03/31/24 20:30:42 v1.34.5 @ MACHINE, ****************************
+03/31/24 20:30:42 v1.34.5 @ MACHINE, rho: x^2 + 3, starting 1000 iterations on C174
+03/31/24 20:30:42 v1.34.5 @ MACHINE, rho: x^2 + 2, starting 1000 iterations on C174
+03/31/24 20:30:42 v1.34.5 @ MACHINE, rho: x^2 + 1, starting 1000 iterations on C174
+03/31/24 20:30:42 v1.34.5 @ MACHINE, pm1: starting B1 = 150K, B2 = gmp-ecm default on C174
+03/31/24 20:30:42 v1.34.5 @ MACHINE, current ECM pretesting depth: 0.00
+03/31/24 20:30:42 v1.34.5 @ MACHINE, scheduled 30 curves at B1=2000 toward target pretesting depth of 53.54
+03/31/24 20:30:42 v1.34.5 @ MACHINE, prp10 = 3635915567 (curve 1 stg1 B1=2000 sigma=3487082150 thread=0)
+03/31/24 20:30:42 v1.34.5 @ MACHINE, Finished 1 curves using Lenstra ECM method on C174 input, B1=2K, B2=gmp-ecm default
+03/31/24 20:30:42 v1.34.5 @ MACHINE, current ECM pretesting depth: 0.00
+03/31/24 20:30:42 v1.34.5 @ MACHINE, scheduled 29 curves at B1=2000 toward target pretesting depth of 50.46
+03/31/24 20:30:42 v1.34.5 @ MACHINE, prp10 = 3744386671 (curve 1 stg1 B1=2000 sigma=3653788662 thread=0)
+03/31/24 20:30:42 v1.34.5 @ MACHINE, Finished 1 curves using Lenstra ECM method on C164 input, B1=2K, B2=gmp-ecm default
+03/31/24 20:30:42 v1.34.5 @ MACHINE, current ECM pretesting depth: 0.00
+03/31/24 20:30:42 v1.34.5 @ MACHINE, scheduled 28 curves at B1=2000 toward target pretesting depth of 47.69
+03/31/24 20:30:42 v1.34.5 @ MACHINE, prp155 = 10651987877533772188440205268385723681224651777384121120926977791191426755882566107618206306815183484369276527316840499421776849406225472400639701281788399
+03/31/24 20:30:42 v1.34.5 @ MACHINE, Total factoring time = 0.3232 seconds
+03/31/24 20:32:38 v1.34.5 @ MACHINE, 
+03/31/24 20:32:38 v1.34.5 @ MACHINE, ****************************
+03/31/24 20:32:38 v1.34.5 @ MACHINE, Starting factorization of 145019079329431335397614962361328380657791588724922798973663969211116220115770245475920263239995612730754707053842643157419631306217775476295468921323722072358718740419891343
+03/31/24 20:32:38 v1.34.5 @ MACHINE, using pretesting plan: normal
+03/31/24 20:32:38 v1.34.5 @ MACHINE, no tune info: using qs/gnfs crossover of 95 digits
+03/31/24 20:32:38 v1.34.5 @ MACHINE, ****************************
+03/31/24 20:32:38 v1.34.5 @ MACHINE, rho: x^2 + 3, starting 1000 iterations on C174
+03/31/24 20:32:38 v1.34.5 @ MACHINE, rho: x^2 + 2, starting 1000 iterations on C174
+03/31/24 20:32:38 v1.34.5 @ MACHINE, rho: x^2 + 1, starting 1000 iterations on C174
+03/31/24 20:32:38 v1.34.5 @ MACHINE, pm1: starting B1 = 150K, B2 = gmp-ecm default on C174
+03/31/24 20:32:38 v1.34.5 @ MACHINE, current ECM pretesting depth: 0.00
+03/31/24 20:32:38 v1.34.5 @ MACHINE, scheduled 30 curves at B1=2000 toward target pretesting depth of 53.54
+03/31/24 20:32:38 v1.34.5 @ MACHINE, c20 = 13614273785956207457 (curve 1 stg2 B1=2000 sigma=2251333430 thread=0)
+03/31/24 20:32:38 v1.34.5 @ MACHINE, Finished 1 curves using Lenstra ECM method on C174 input, B1=2K, B2=gmp-ecm default
+03/31/24 20:32:38 v1.34.5 @ MACHINE, current ECM pretesting depth: 0.00
+03/31/24 20:32:38 v1.34.5 @ MACHINE, scheduled 29 curves at B1=2000 toward target pretesting depth of 47.69
+03/31/24 20:32:38 v1.34.5 @ MACHINE, prp155 = 10651987877533772188440205268385723681224651777384121120926977791191426755882566107618206306815183484369276527316840499421776849406225472400639701281788399
+03/31/24 20:32:38 v1.34.5 @ MACHINE, 
+03/31/24 20:32:38 v1.34.5 @ MACHINE, ****************************
+03/31/24 20:32:38 v1.34.5 @ MACHINE, Starting factorization of 13614273785956207457
+03/31/24 20:32:38 v1.34.5 @ MACHINE, using pretesting plan: normal
+03/31/24 20:32:38 v1.34.5 @ MACHINE, no tune info: using qs/gnfs crossover of 95 digits
+03/31/24 20:32:38 v1.34.5 @ MACHINE, ****************************
+03/31/24 20:32:38 v1.34.5 @ MACHINE, Fermat method found factors:
+03/31/24 20:32:38 v1.34.5 @ MACHINE, prp10 = 3744386671
+03/31/24 20:32:38 v1.34.5 @ MACHINE, prp10 = 3635915567
+03/31/24 20:32:38 v1.34.5 @ MACHINE, Total factoring time = 0.0041 seconds
+03/31/24 20:32:38 v1.34.5 @ MACHINE, Total factoring time = 0.3277 seconds
